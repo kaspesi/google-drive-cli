@@ -1,6 +1,6 @@
 # Administrative Interface
 
-### Use node index.js to run
+### Run npm install and use node index.js to run
 ### Must get token.json using your google account
 
 ### Must get credentials.json link below
