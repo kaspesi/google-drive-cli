@@ -1,9 +1,8 @@
 # Administrative Interface
 
 ### Run npm install and use node index.js to run
-### Must get token.json using your google account
-
-### Must get credentials.json link below
+#### Must get token.json using your google account
+#### Must get credentials.json link below
 [Get required credential.json file](https://developers.google.com/drive/api/v3/quickstart/nodejs)
 
 
